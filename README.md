@@ -2,7 +2,7 @@
 
 Full stack developer passionate about crafting efficient, scalable web applications. Experienced in:
 
-- 💻 Frontend: React,next.js
+- 💻 Frontend: React,Next.js
 - 🖥️ Backend: Node.js, Javascript
 - 🗄️ Databases: SQL, MongoDB
 
